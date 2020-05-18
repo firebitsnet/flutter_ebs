@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3141210-5da6-48d0-a2a9-919bcb3e966a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,42 @@
       <option name="presentableId" value="Default" />
       <updated>1589765176080</updated>
     </task>
+    <task id="LOCAL-00001" summary="Clean read me">
+      <created>1589769231518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589769231519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete comments">
+      <created>1589769278722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589769278722</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete comments">
+      <created>1589769296533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589769296533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete comments">
+      <created>1589769314467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589769314467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add comment">
+      <created>1589769458278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589769458278</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +93,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean read me" />
+    <MESSAGE value="delete comments" />
+    <MESSAGE value="add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
   </component>
 </project>

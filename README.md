@@ -9,3 +9,4 @@ This project is a starting point for a Flutter
 a specialized package that includes platform-specific implementation code for
 Android and/or iOS.
 
+# Step by step commits so you can get aboard easily
